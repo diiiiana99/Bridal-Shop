@@ -1,0 +1,18 @@
+.about-section {
+    p {
+      font-size: 50px;
+      text-align: center;
+      line-height: 1.12;
+      opacity: 0;
+      color: #be58c79e;
+
+  
+      > div {
+        opacity: 0;
+        transform: translateY(0px);
+      }
+      &.is-reveal {
+        opacity: .5;
+      }
+    }
+  }
