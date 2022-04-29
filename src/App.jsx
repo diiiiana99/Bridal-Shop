@@ -89,6 +89,7 @@ const Home = () => {
           <About/>
           <Featured2/>
           <Dress/>
+        
 
 \
 
