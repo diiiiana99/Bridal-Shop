@@ -29,9 +29,7 @@ export default function Header() {
   return (
     <section className="header-container" data-scroll-section>
       <ul className="header-menu">
-        <li>Home</li>
-        <li>About</li>
-        <li>Why Us?</li>
+      
       </ul>
   
 

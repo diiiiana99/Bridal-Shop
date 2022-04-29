@@ -32,8 +32,8 @@
   
   
   .secondary-cursor {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
   
   }
   
@@ -109,20 +109,20 @@
   
   @keyframes translateLeftDot {
     from {
-      transform: translate(20px, -50%);
+      transform: translate(20px, -25%);
     }
   
     to {
-      transform: translate(0px, -50%);
+      transform: translate(0px, -25%);
     }
   }
   
   @keyframes translateRightDot {
     from {
-      transform: translate(-20px, -50%);
+      transform: translate(-20px, -25%);
     }
   
     to {
-      transform: translate(0px, -50%);
+      transform: translate(0px, -25%);
     }
   }
